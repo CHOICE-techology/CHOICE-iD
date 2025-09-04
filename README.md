@@ -63,7 +63,7 @@ while preserving CHOICE iD’s core principles.
     - Reputation gaming — apply rate limits, issuer weighting, challenge-response verification.
     - Compliance drift — consented data flows, regular audits, no biometric templates on servers.
 
-  - 4.6 Minimal Backend Responsibilities
+  - Minimal Backend Responsibilities
 
     - Credential/attestation resolver and read API (no PII storage).
     - Score aggregator writing Merkle roots on-chain.
